@@ -17,7 +17,7 @@ def validate_user_input():
 
         else:
             print('You did not enter a valid number, please try again')
-            continue
+            
     
     
         
