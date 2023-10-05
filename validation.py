@@ -13,7 +13,7 @@ def validate_user_input():
 
         if user_input.isdigit() == True:
             return int(user_input)
-            break
+            
             
 
         else:
